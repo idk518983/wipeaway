@@ -3,6 +3,6 @@
     "description": "Wipeaway app for 3D prints",
     "homepage": "https://github.com/idk518983/wipeaway",
     "url": "https://github.com/idk518983/wipeaway/releases/download/v1.0/wipeaway.exe",
-    "hash": "skip",
+    "hash": "c3d48935d521f53c521d50a4c222962e7cb7ba012481e96b4f117f232429fd80",
     "bin": "wipeaway.exe"
 }
